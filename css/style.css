@@ -355,10 +355,8 @@
 .li-list-contact:nth-child(2){
     margin-bottom: 20px;
 }
-.fa-envelopes, .fa-phones,.fa-location-dots{
-    color: #5863F8;
-    margin-right: 14px;
-}
+
+
 .footer-copyright, .www{
     font-family: 'Poppins Medium';
     font-size: 14px;
@@ -373,9 +371,4 @@
     justify-content: space-between;
     
 
-}
-.www{
-    font-family: 'Poppins Medium';
-    color: #5863F8;
-    font-size: 14px;
 }
